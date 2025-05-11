@@ -1,0 +1,15 @@
+/*
+.main {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: red;
+    background-color: whitesmoke;
+}
+*/
+
+#active {
+    background-color: whitesmoke;
+    color: red;
+    line-height: 2.5em;
+    font-size: 2.5em;
+}
