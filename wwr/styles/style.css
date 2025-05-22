@@ -1,14 +1,10 @@
 body {
-  max-width: 1600px; 
+  max-width: 1710px; 
 }
 
 #content {
   width: 60%; 
   margin: 0 auto; 
-  text-align: center;
-}
-
-nav a {
   text-align: center;
 }
 
@@ -29,37 +25,123 @@ main section {
 }
 
 body {
-background-color: skyblue;
+background-color: whitesmoke;
+color: #02201d;
 
 }
 
 header {
-background-color: aquamarine;
+background-color: rgb(199, 185, 160);
+color: #01090f;
 
 }
 
 nav a:hover {
 background-color: rgb(108, 128, 121);
+color: #d9c2a3;
 
 }
 
 .book:hover, .join:hover {
 background-color: darkkhaki;
+color: #01090f;
 
 }
 
 #background {
 background-color: silver;
+color: #01090f;
 
 }
 
 .msg {
 background-color: lightslategray;
+color: #01090f;
 
 }
 
 footer {
 background-color: floralwhite;
+color: #01090f;
 
 }
 
+nav a {
+background-color: #98aebb;
+color: #01090f;
+
+}
+
+.home-title {
+background-color: #59f8e8;
+color: #01090f;
+
+}
+
+h4 {
+background-color: #a08d90;
+color: #01090f;
+
+}
+
+.book, .join {
+background-color: #c3e8fc;
+color: #01090f;
+
+}
+
+.book:hover, .join:hover {
+background-color: #20a4f3;
+color: #01090f;
+
+}
+
+.msg h2 {
+background-color:#59f8e8 ;
+color: #01090f;
+
+}
+
+.msg p {
+background-color: #a08d90;
+color: #01090f;
+
+}
+
+footer a {
+background-color: #c3e8fc;
+color: #01090f;
+
+}
+
+footer a:hover {
+background-color: #59f8e8;
+color: #d6d2d1;
+
+}
+
+.icon {
+    width: 80px;
+}
+
+nav a {
+text-align: right;
+color: #f7f4f4;
+ text-decoration: none;
+}
+
+.book, .join {
+text-align: center;
+color: #01090f;
+ text-decoration: none;
+}
+
+footer a {
+text-align: center;
+color: #01090f;
+ text-decoration: none;
+}
+
+footer p {
+    font-size: 1.2em;
+}
