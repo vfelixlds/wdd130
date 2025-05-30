@@ -1,15 +1,16 @@
 body {
-  max-width: 1710px; 
+  max-width: 1600px; 
 }
 
 #content {
   width: 60%; 
   margin: 0 auto; 
-  text-align: center;
+  text-align: left;
 }
 
 #hero-msg h1, #hero-msg h4 {
   text-align: center;
+  background-color: #ffff;
 }
 
 .button-box {
@@ -18,10 +19,16 @@ body {
 
 main section {
   text-align: center;
+  
 }
 
 #background {
-    height: 725px;
+  height: 800px;
+  width: 1500px;
+  margin: 100px 0;
+  border: 30px;
+  background-color: silver;
+  color: #01090f;
 }
 
 body {
@@ -31,13 +38,13 @@ color: #02201d;
 }
 
 header {
-background-color: rgb(199, 185, 160);
+background-color: rgb(142, 165, 158);
 color: #01090f;
 
 }
 
 nav a:hover {
-background-color: rgb(108, 128, 121);
+background-color: rgb(128, 108, 108);
 color: #d9c2a3;
 
 }
@@ -48,45 +55,48 @@ color: #01090f;
 
 }
 
-#background {
-background-color: silver;
-color: #01090f;
-
-}
-
-.msg {
-background-color: lightslategray;
-color: #01090f;
-
-}
-
 footer {
-background-color: floralwhite;
-color: #01090f;
+background-color: rgb(142, 165, 158);
+color: rgb(229, 232, 235);
+padding: 25px 50px;
+margin-top: 200px;
+height: 260px;
+width: 860px;
 
 }
 
 nav a {
-background-color: #98aebb;
+background-color: rgb(142, 165, 158);
 color: #01090f;
 
 }
 
 .home-title {
-background-color: #59f8e8;
+background-color: #ffff;
 color: #01090f;
+font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+font-size: 2em;
+margin-top: 10px ;
 
 }
 
 h4 {
-background-color: #a08d90;
+background-color: #98aebb;
 color: #01090f;
 
 }
 
 .book, .join {
-background-color: #c3e8fc;
-color: #01090f;
+background-color: #2e6f92;
+color: #eff1f3;
+text-align: center;
+color: #e7e9eb;
+text-decoration: none;
+font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+font-size: 18px;
+padding: 15px 30px;
+margin-top: 50px;
+border-radius: 5px;
 
 }
 
@@ -97,19 +107,20 @@ color: #01090f;
 }
 
 .msg h2 {
-background-color:#59f8e8 ;
-color: #01090f;
+background-color:rgb(142, 165, 158) ;
+color: #ffffff;
 
 }
 
 .msg p {
 background-color: #a08d90;
-color: #01090f;
+color: #ffffff;
+padding-bottom: 15px;
 
 }
 
 footer a {
-background-color: #c3e8fc;
+background-color: rgb(142, 165, 158);
 color: #01090f;
 
 }
@@ -120,28 +131,96 @@ color: #d6d2d1;
 
 }
 
+.logo {
+width: 80px;
+padding: 10px;
+
+}
+
 .icon {
-    width: 80px;
+width: 80px;
+padding-top: 10px;
+
+}
+
+#hero-img {
+  width: 100%; 
+
 }
 
 nav a {
 text-align: right;
 color: #f7f4f4;
  text-decoration: none;
-}
+ padding: 5px;
 
-.book, .join {
-text-align: center;
-color: #01090f;
- text-decoration: none;
 }
 
 footer a {
 text-align: center;
-color: #01090f;
+color: rgb(229, 232, 235);
  text-decoration: none;
+
 }
 
 footer p {
     font-size: 1.2em;
+
+}
+
+footer p a:hover {
+    text-decoration: underline;
+
+}
+
+.msg p {
+   font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+  font-size: .8em;
+   background-color: rgb(142, 165, 158);
+
+}
+
+.msg {
+  background-color: #758f7a;
+  line-height: 1.5em;
+  background-color: rgb(142, 165, 158);
+  color: #01090f;
+  padding: 25px 50px;
+  margin-top: 150px;
+
+}
+
+body {
+    background-color: #fcfbfb;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+
+}
+
+h2 {
+    margin: 0;
+
+  }
+
+#logo_link {
+  padding-top: 5px;
+
+}
+
+footer .social img {
+  padding-top: 10px;
+
+}
+
+.rivers-card, .camping-card, .rapids-card {
+  margin: 200px 0;
+  border: 10px;
+
+}
+
+main section img {
+  box-sizing: border-box;
+  
 }
