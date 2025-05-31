@@ -1,0 +1,43 @@
+body {
+background-color: whitesmoke;
+
+}
+
+
+img {
+  max-width: 1600px; 
+  background-color: whitesmoke;
+  color: #02201d; 
+  margin-left: 14%;
+  margin-top: 10%;
+
+}
+
+h1 {
+    font-size: 200px;
+    color: rgb(5, 5, 5);
+    margin-left: 15%;
+    margin-top: -30%;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    letter-spacing: 11px;
+ }
+
+h4 {
+    font-size:80px;
+    color: rgb(173, 8, 8);
+     margin-left: 60%;
+    margin-top: -5%;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    letter-spacing: 11px;
+}
+
+
+
+.background {
+  width: 600px; 
+  height: 580px; 
+  max-width: 1500px; 
+  background-color: rgb(212, 208, 208);
+  margin-top: -30%;
+  margin-left: 52%
+}
