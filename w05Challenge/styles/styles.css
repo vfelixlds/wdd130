@@ -1,0 +1,48 @@
+.home-title {
+background-color: #0c0b0b;
+color: #01090f;
+font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+font-size: 2em;
+margin-top: 10px ;
+
+}
+
+#content {
+  text-align: center;
+  margin-top: 200px; 
+
+}
+
+.background {
+  width: 1220px; 
+  height: 300px; 
+  max-width: 2600px; 
+  background-color: rgb(122, 121, 121);
+  padding: 15px 30px;
+  margin: 0 auto;
+  margin-top: -30px; 
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+
+}
+
+.card-img {
+  width: 200px; 
+  height: 200px;
+  border-radius: 50%; 
+  margin: 0 auto;
+  object-fit: cover; 
+  border: 15px solid #474545
+ 
+}
+
+
+
+
+
+
+
+
+
+
